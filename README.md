@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Tegarilham4444@gmail.com**
 
-- ⚡ Fun fact **I thin l am Crazy:v**
+- ⚡ Fun fact **I thin l am Crazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
