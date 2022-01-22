@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tegardev9" alt="tegardev9" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [bit.ly/3Al4hFb](bit.ly/3Al4hFb)
+- 👨‍💻 All of my Certificate are available at [bit.ly/3Al4hFb](bit.ly/3Al4hFb)
 
 - 💬 Ask me about **Boostrap 5**
 
