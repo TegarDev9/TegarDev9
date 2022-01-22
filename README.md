@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tegardev9" alt="tegardev9" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1NT_9U3sM27qj5of7v9eTGlIXonZFCqoo?usp=sharing](https://drive.google.com/drive/folders/1NT_9U3sM27qj5of7v9eTGlIXonZFCqoo?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://bit.ly/3Al4hFb](https://bit.ly/3Al4hFb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
