@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tegar karunia ilham</h1>
 <h3 align="center">I am a student at Jember State Polytechnic</h3>
 
+(img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg")
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegardev9&label=Profile%20views&color=0e75b6&style=flat" alt="tegardev9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tegardev9" alt="tegardev9" /></a> </p>
