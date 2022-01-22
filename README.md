@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tegar karunia ilham</h1>
 <h3 align="center">I am a student at Jember State Polytechnic</h3>
 
-<img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegardev9&label=Profile%20views&color=0e75b6&style=flat" alt="tegardev9" /> </p>
