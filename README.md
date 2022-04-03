@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my Certificate are available at [bit.ly/3Al4hFb](bit.ly/3Al4hFb)
 
-- 💬 Ask me about **Boostrap 5**
+- 💬 Ask me about **Something**
 
 - 📫 How to reach me **Tegarilham4444@gmail.com**
 
