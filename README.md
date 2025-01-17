@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tegar karunia ilham</h1>
-<h3 align="center">I am a Developer & Conten Creator</h3>
+<h3 align="center">I am a Developer & Trader</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegardev9&label=Profile%20views&color=0e75b6&style=flat" alt="tegardev9" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Something**
 
-- 📫 How to reach me **Tegarilham4444@gmail.com**
+- 📫 How to reach me **tegarilham4444@gmail.com**
 
 - ⚡ Fun fact **I thin l am Crazy**
 
