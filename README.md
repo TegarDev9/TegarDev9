@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=tegardev9&label=Profile+Views&color=818cf8&style=flat-square" alt="Profile Views"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Shipping%20Code-22c55e?style=flat-square&logo=github&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Base-Jember%2C%20ID-6366f1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Base-Jember%2C%20ID-6366f1?style=flat-square&logo=googlemaps&logoColor=white&logoWidth=20" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-TMA%20%7C%20AI%20%7C%20Automation-c084fc?style=flat-square" alt="Focus"/>
 </p>
 
@@ -33,6 +33,9 @@
   </a>
   <a href="https://discord.gg/NcJ4tjdY" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://x.com/ilhamautomation" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:tegarilham4444@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -94,6 +97,7 @@ const tegar = {
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Needle](https://img.shields.io/badge/Needle.app-FF6B35?style=flat-square&logo=needle&logoColor=white)
 
 </div>
 
@@ -114,7 +118,7 @@ const tegar = {
 
 > I don't just write code — I **orchestrate workflows**.
 
-- 🔁 **n8n / Make.com** — Opinionated templates: error-handling first, idempotent, retry + DLQ
+- 🔁 **n8n / Make.com / Needle.app** — Opinionated templates: error-handling first, idempotent, retry + DLQ
 - 🧠 **AI Microservices** — FastAPI/Golang for model serving (RAG, content tools, classification)
 - 🤖 **Bots & CRM** — FAQ auto-reply for IG/ManyChat, robust Webhooks, and ETL pipelines
 
@@ -124,7 +128,7 @@ const tegar = {
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=tegardev9&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=818CF8&icon_color=6366f1&text_color=c9d1d9&border_radius=12" />
-  <img height="160" src="https://streak-stats.demolab.com?user=tegardev9&hide_border=true&theme=tokyonight&background=0D1117&ring=818CF8&fire=c084fc&currStreakNum=c9d1d9&border_radius=12" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=tegardev9&hide_border=true&theme=tokyonight&background=0D1117&ring=818CF8&fire=c084fc&currStreakNum=c9d1d9&border_radius=12" />
 </div>
 
 <div align="center">
@@ -132,17 +136,20 @@ const tegar = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tegardev9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=818CF8&line=6366f1&point=c084fc" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tegardev9&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=818CF8&line=6366f1&point=c084fc&area=true&area_color=6366f1" width="100%" />
 </div>
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- [ ] 🚀 Ship **3+ production-ready** Telegram Mini Apps (TMA)
-- [ ] 📦 Open-source **5+ killer n8n templates** (ManyChat/IG, Affiliate ETL)
-- [ ] 📱 Release **1 Flutter app** & **1 React Native starter kit**
-- [ ] ✍️ Write **12 technical articles** on Automation, TMA & AI Microservices
+- [ ] 🍳 Ship **Cookmon** — AI-powered cooking app
+- [ ] 🧾 Ship **Recipmon** — Smart recipe management platform
+- [ ] 🏠 Ship **Web3HomeOffice** — Decentralized home office ecosystem
+- [ ] ✨ Ship **Glowmon** — Beauty & skincare tracker app
+- [ ] 🏃 Ship **RunX** — Running & fitness challenge platform
+- [ ] 🎮 Ship **PofuPlay** — Casual gaming & play-to-earn platform
+- [ ] 🕌 Ship **BarakahGo** — Islamic lifestyle & daily ibadah app
 
 ---
 
