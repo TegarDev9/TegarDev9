@@ -1,153 +1,163 @@
 <div align="center">
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3Dgradient%26customColorList%3D0ea5e9,3b82f6,1e40af%26height%3D4%26section%3Dheader" style="width: 100%;" alt="gradient line" />
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tegar%20Karunia%20Ilham&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Builder%20%E2%80%A2%20Automation%20Geek%20%E2%80%A2%20TMA%20Engineer&descSize=16&descAlignY=58&animation=fadeIn" />
 
-<h1>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%2520and%2520places/High%2520Voltage.png" alt="High Voltage" width="38" height="38" align="center" />
-Tegar Karunia Ilham
-</h1>
+<!-- TYPING EFFECT -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=600&lines=turn+caffeine+into+code+%E2%98%95;ship+products+end-to-end+%F0%9F%9A%80;automate+the+boring+stuff+%E2%9A%99%EF%B8%8F;build+in+the+TON+ecosystem+%F0%9F%94%B7" alt="Typing SVG" />
+</a>
 
-<p align="center">
-<b>Full-stack Builder</b> • <b>Automation Geek</b> • <b>TMA Engineer</b>
+<br/>
+
+<!-- BADGES -->
+<p>
+  <a href="https://komarev.com/ghpvc/?username=tegardev9">
+    <img src="https://komarev.com/ghpvc/?username=tegardev9&label=Profile+Views&color=818cf8&style=flat-square" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Shipping%20Code-22c55e?style=flat-square&logo=github&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Base-Jember%2C%20ID-6366f1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Focus-TMA%20%7C%20AI%20%7C%20Automation-c084fc?style=flat-square" alt="Focus"/>
 </p>
 
-<p align="center">
-<a href="https://komarev.com/ghpvc/?username=tegardev9">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dtegardev9%26label%3DProfile%2520Views%26color%3D0ea5e9%26style%3Dfor-the-badge" alt="Profile views">
-</a>
-<a href="https://www.google.com/search?q=https://github.com/tegardev9">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Shipping_Code-22c55e%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Status">
-</a>
-<a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Base-Asia%252FJakarta-3b82f6%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-maps%26logoColor%3Dwhite" alt="Timezone">
-</a>
+<!-- SOCIAL LINKS -->
+<p>
+  <a href="https://www.linkedin.com/in/tegar-karunia-ilham-888b861b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tegarkarunia77" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/tegar%20karunia" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/NcJ4tjdY" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:tegarilham4444@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/tegar-karunia-ilham-888b861b5/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-<a href="https://instagram.com/tegarkarunia77" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram"></a>
-<a href="https://www.youtube.com/c/tegar%20karunia" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube"></a>
-<a href="https://discord.gg/NcJ4tjdY" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-5865F2%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord"></a>
-</p>
-
 </div>
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%2520and%2520places/Rocket.png" alt="Rocket" width="25" align="center" /> 01. About Me
+---
 
-I turn caffeine into code and manual tasks into n8n workflows. I build end-to-end products from idea → design → code → ship. Deeply invested in the Telegram & TON ecosystem, AI microservices, and clean UIs.
+## ⚡ About Me
 
-💡 Fun Fact: I think I’m productively crazy. Move fast, automate the boring stuff, keep shipping.
+```ts
+const tegar = {
+  role:       "Full-Stack Builder · Automation Geek · TMA Engineer",
+  location:   "Jember, Indonesia 🇮🇩",
+  focus:      ["Telegram Mini Apps", "AI Microservices", "Workflow Automation"],
+  stack:      ["Next.js", "FastAPI", "Golang", "Flutter", "n8n"],
+  philosophy: "Move fast · Automate the boring · Keep shipping",
+  funFact:    "Productively crazy since forever ☕",
+};
+```
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" align="center" /> 02. Tech Arsenal
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
+**Frontend**
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
+**Backend**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
+**Data & Infra**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dts,js,react,nextjs,tailwind,flutter,dart,androidstudio%26perline%3D8" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,fastapi,python,go,java,php,laravel%26perline%3D8" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostgres,mysql,mongodb,supabase,redis,prisma,vercel,netlify%26perline%3D8" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker,nginx,azure,cloudflare,git,github,figma,postman%26perline%3D8" />
-
-
-
-
+**Automation & AI**
+<br/>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" alt="Fire" width="25" align="center" /> 03. Currently Cooking
+---
 
-📦 Project
+## 🔥 Currently Cooking
 
-🛠️ Tech Stack
+| 📦 Project | 🛠 Stack | 🎯 Mission |
+|---|---|---|
+| **TLabsData** | `Next.js` `FastAPI` `Postgres` | Affiliate data pipeline & dashboard (Shopee, TikTok, Amazon) |
+| **HabbitChallenge** | `TMA` `Next.js` `TON` | Gamified habit & streak tracker inside Telegram Mini App |
+| **Task Manager DApp** | `Next.js` `Supabase` `Vercel` | Monorepo Web3 Task Manager with full CI/CD |
+| **Aquaculture App** | `Flutter` `Dart` `Neon DB` | Modern ops app for freshwater farming |
 
-🎯 Mission
+---
 
-TLabsData
+## ⚙️ The Automation Guy
 
-Next.js FastAPI Postgres
+> I don't just write code — I **orchestrate workflows**.
 
-Affiliate data pipeline & dashboard (Shopee, TikTok, Amazon)
+- 🔁 **n8n / Make.com** — Opinionated templates: error-handling first, idempotent, retry + DLQ
+- 🧠 **AI Microservices** — FastAPI/Golang for model serving (RAG, content tools, classification)
+- 🤖 **Bots & CRM** — FAQ auto-reply for IG/ManyChat, robust Webhooks, and ETL pipelines
 
-HabbitChallenge
+---
 
-TMA Next.js TON
-
-Gamified habit & streak tracker inside Telegram Mini App
-
-Task Manager DApp
-
-Next.js Supabase Vercel
-
-Monorepo Web3 Task Manager (Next.js + API + DB + CI/CD)
-
-Aquaculture App
-
-Flutter Dart Neon DB
-
-Modern operations app for freshwater farming
-
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%2520Monster.png" alt="Alien" width="25" align="center" /> 04. The Automation Guy
-
-I don't just write code; I orchestrate workflows.
-
-⚙️ n8n / Make.com — Opinionated templates (error-handling first, idempotent, retry + DLQ).
-
-🧠 AI Microservices — FastAPI/Golang for model serving (RAG, content tools, classification).
-
-🤖 Bots & CRM — FAQ auto-reply for IG/ManyChat, robust Webhooks, and ETL pipelines.
-
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%2520Increasing.png" alt="Chart" width="25" align="center" /> 05. GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtegardev9%26show_icons%3Dtrue%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26theme%3Dtransparent%26bg_color%3D0D1117%26title_color%3D3B82F6%26icon_color%3D0ea5e9%26text_color%3Dc9d1d9" alt="Stats"/>
-<img height="165" src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dtegardev9%26hide_border%3Dtrue%26theme%3Dtransparent%26background%3D0D1117%26ring%3D3B82F6%26fire%3D0ea5e9%26currStreakNum%3Dc9d1d9" alt="Streak"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tegardev9&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=818CF8&icon_color=6366f1&text_color=c9d1d9&border_radius=12" />
+  <img height="160" src="https://streak-stats.demolab.com?user=tegardev9&hide_border=true&theme=tokyonight&background=0D1117&ring=818CF8&fire=c084fc&currStreakNum=c9d1d9&border_radius=12" />
 </div>
 
 <div align="center">
-<img height="165" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dtegardev9%26show_icons%3Dtrue%26layout%3Dcompact%26hide_border%3Dtrue%26theme%3Dtransparent%26bg_color%3D0D1117%26title_color%3D3B82F6%26text_color%3Dc9d1d9" alt="Top Langs"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=tegardev9&show_icons=true&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=818CF8&text_color=c9d1d9&border_radius=12" />
 </div>
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%2520Hit.png" alt="Target" width="25" align="center" /> 06. Goals
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tegardev9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=818CF8&line=6366f1&point=c084fc" width="100%" />
+</div>
 
-[ ] 🚀 Ship 3+ production-ready Telegram Mini Apps (TMA).
+---
 
-[ ] 📦 Open-source 5+ killer n8n templates (ManyChat/IG, Affiliate ETL).
+## 🎯 2025 Goals
 
-[ ] 📱 Release 1 Flutter app & 1 React Native starter kit.
+- [ ] 🚀 Ship **3+ production-ready** Telegram Mini Apps (TMA)
+- [ ] 📦 Open-source **5+ killer n8n templates** (ManyChat/IG, Affiliate ETL)
+- [ ] 📱 Release **1 Flutter app** & **1 React Native starter kit**
+- [ ] ✍️ Write **12 technical articles** on Automation, TMA & AI Microservices
 
-[ ] ✍️ Write 12 technical articles on Automation, TMA, and AI Microservices.
+---
 
 <div align="center">
-<h3><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%2520gestures/Handshake.png" alt="Handshake" width="30" align="center" /> Let's Collaborate</h3>
-<p>Open for <b>freelance/consulting</b> in:</p>
-<p><code>Workflow Automation (n8n/Make)</code> • <code>Telegram Mini Apps</code> • <code>Full-stack (Next.js/FastAPI/Golang)</code></p>
-<p>📫 <b>Slide into my inbox:</b> <a href="mailto:tegarilham4444@gmail.com">tegarilham4444@gmail.com</a></p>
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3Dgradient%26customColorList%3D0ea5e9,3b82f6,1e40af%26height%3D4%26section%3Dfooter" style="width: 100%;" alt="footer line" />
+### 🤝 Let's Collaborate
 
+Open for **freelance / consulting** in:
 
+`Workflow Automation (n8n/Make)` • `Telegram Mini Apps` • `Full-Stack (Next.js/FastAPI/Golang)`
 
+📫 **Slide into my inbox:** [tegarilham4444@gmail.com](mailto:tegarilham4444@gmail.com)
 
+<br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=14&fontColor=818cf8&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time%20%E2%98%95&descAlignY=65" />
 
-
-<p><i>Building the future, one commit at a time.</i> ☕</p>
 </div>
