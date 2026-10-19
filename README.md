@@ -143,13 +143,8 @@ const tegar = {
 
 ## 🎯 2026 Goals
 
-- [ ] 🍳 Ship **Cookmon** — AI-powered cooking app
-- [ ] 🧾 Ship **Recipmon** — Smart recipe management platform
-- [ ] 🏠 Ship **Web3HomeOffice** — Decentralized home office ecosystem
-- [ ] ✨ Ship **Glowmon** — Beauty & skincare tracker app
-- [ ] 🏃 Ship **RunX** — Running & fitness challenge platform
-- [ ] 🎮 Ship **PofuPlay** — Casual gaming & play-to-earn platform
-- [ ] 🕌 Ship **BarakahGo** — Islamic lifestyle & daily ibadah app
+- [ ] 🍳 Ship **gettesland** — Web Automation Tester
+
 
 ---
 
